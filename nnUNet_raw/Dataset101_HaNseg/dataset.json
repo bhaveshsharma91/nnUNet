@@ -1,0 +1,42 @@
+{
+    "channel_names": {
+        "CT": 0
+    },
+    "labels": {
+        "background": 0,
+        "Arytenoids (Arytenoid)": 1,
+        "Brainstem (Brainstem)": 2,
+        "Carotid artery - Left (A_Carotid_L)": 3,
+        "Carotid artery - Right (A_Carotid_R)": 4,
+        "Cervical esophagus (Esophagus_S)": 5,
+        "Cochlea - Left (Cochlea_L)": 6,
+        "Cochlea - Right (Cochlea_R)": 7,
+        "Cricopharyngeal inlet (Cricopharyngeus)": 8,
+        "Lacrimal gland - Left (Glnd_Lacrimal_L)": 9,
+        "Lacrimal gland - Right (Glnd_Lacrimal_R)": 10,
+        "Glottis (Glottis)": 11,
+        "Larynx—supraglottic (Larynx_SG)": 12,
+        "Lips (Lips)": 13,
+        "Mandible (Bone_Mandible)": 14,
+        "Optic chiasm (OpticChiasm)": 15,
+        "Optic nerve - Left (OpticNrv_L)": 16,
+        "Optic nerve - Right (OpticNrv_R)": 17,
+        "Oral cavity (Cavity_Oral)": 18,
+        "Parotid gland - Left (Parotid_L)": 19,
+        "Parotid gland - Right (Parotid_R)": 20,
+        "Pituitary gland (Pituitary)": 21,
+        "Spinal cord (SpinalCord)": 22,
+        "Submandibular gland - Left (Glnd_Submand_L)": 23,
+        "Submandibular gland - Right (Glnd_Submand_R)": 24,
+        "Thyroid (Glnd_Thyroid)": 25,
+        "Buccal mucosa (BuccalMucosa)": 26,
+        "Anterior segment of the eyeball - Left (Eye_A_L)": 27,
+        "Anterior segment of the eyeball - Right (Eye_A_R)": 28,
+        "Posterior segment of the eyeball - Left (Eye_P_L)": 29,
+        "Posterior segment of the eyeball - Right (Eye_P_R)": 30
+    },
+    
+    "numTraining": 42,
+    "file_ending": ".nii",
+    "overwrite_image_reader_writer": "SimpleITKIO"
+}
